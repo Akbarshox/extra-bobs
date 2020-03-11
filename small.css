@@ -1,0 +1,22 @@
+@media (max-width: 600px) {
+    .right-sec {
+        width: 100%;
+        margin-top: 70px;
+        justify-content: center;
+    }
+    .right-sec img {
+        width: 100%;
+    }
+    .left-sec{
+        width: 80%;
+    }
+    .nav a{
+        display: none;
+    }
+    .nav {
+        margin: 0 auto;
+    }
+    .section2 { 
+        display: inline-block;
+    }
+}
