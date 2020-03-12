@@ -13,10 +13,18 @@
     .nav a{
         display: none;
     }
-    .nav {
-        margin: 0 auto;
+    .nav{
+        text-align: center;
+        margin-left: -40%;
     }
     .section2 { 
         display: inline-block;
+    }
+    .section3 img {
+        width: 100%;
+    }
+    .section4 li {
+        width: 90%;
+        display: block;
     }
 }
